@@ -1,6 +1,3 @@
-## mashiourcse_s_application2
-
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Description
 
